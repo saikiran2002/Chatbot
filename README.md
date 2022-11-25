@@ -4,3 +4,4 @@
 <br>Change the input file name in the chatting.py file.
 <br> data.pickle file is generated after running the python file
 <br> $ python chatting.py
+<br> install the python environment with requirements.txt
